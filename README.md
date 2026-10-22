@@ -13,7 +13,7 @@ Cybersecurity student @ ITS (Italy) — I spend my time breaking things to under
 - **[aurscan](https://github.com/faielli/aurscan)** — Static risk scanner for AUR packages
 - **[niripad](https://github.com/faielli/niripad)** — Keyboard-driven PyQt6 text editor for the Niri Wayland compositor
 - **[AudioBridge](https://github.com/faielli/audiobridge)** — Stream system audio from Windows to Android over Wi-Fi (Opus, mDNS)
-- **VaultRAG** — Flask + ChromaDB RAG system indexing an Obsidian vault, with MCP server and hybrid vector+graph search
+- **[VaultRAG](https://github.com/faielli/Python-RAG-vault)** — Flask + ChromaDB RAG system indexing an Obsidian vault, with MCP server and hybrid vector+graph search
 - **Malware Detection NN** *(in progress)* — Neural network for malware recognition
 
 ### 🖥️ Homelab & Self-Hosted
