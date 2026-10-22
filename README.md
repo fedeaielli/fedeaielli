@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=faielli&color=00ff99&style=flat)
 
-# 💫 About Me:
+# 🦝 About Me:
 
 Cybersecurity student @ ITS (Italy) — I spend my time breaking things to understand how to build them better.
 
