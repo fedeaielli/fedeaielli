@@ -24,7 +24,7 @@ Cybersecurity student @ ITS (Italy) — I spend my time breaking things to under
 ### 🖥️ Homelab & Self-Hosted
 - Docker-based server stack with multiple containerized services
 - Self-hosted at home — production deployments, reverse proxy, service isolation
-- 
+
 ### 💻 Stack & Tools
 `Python` `Rust` `C` `C++` `C#` `Kotlin` `Flask` `MySQL` `Docker` `Arch Linux` `Wayland/Niri` `Git` `Bash` `PowerShell`
 
