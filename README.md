@@ -6,7 +6,7 @@
 
 Cybersecurity student @ ITS (Italy) — I spend my time breaking things to understand how to build them better.
 
-> 🔭 Currently working on: **Malware Detection NN**
+> 🔭 Currently working on: **[RRM](https://github.com/faielli/rrm)** — Rust TUI resource monitor for Arch Linux (not published yet)
 
 ### 🛡️ Security
 - Network security, penetration testing, threat modeling (NIS2/SCADA)
@@ -24,8 +24,7 @@ Cybersecurity student @ ITS (Italy) — I spend my time breaking things to under
 ### 🖥️ Homelab & Self-Hosted
 - Docker-based server stack with multiple containerized services
 - Self-hosted at home — production deployments, reverse proxy, service isolation
-- Flask/MySQL microservices with connection pooling, CSRF protection, and CORS whitelisting
-
+- 
 ### 💻 Stack & Tools
 `Python` `Rust` `C` `C++` `C#` `Kotlin` `Flask` `MySQL` `Docker` `Arch Linux` `Wayland/Niri` `Git` `Bash` `PowerShell`
 
@@ -47,5 +46,3 @@ Arch ricing · Local LLMs · Hardware enthusiast
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=faielli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
