@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hi,%20I'm%20Fede%20👾&fontSize=50&fontColor=00ff99&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hi,%20I'm%20Fede%20🦝&fontSize=50&fontColor=00ff99&animation=fadeIn)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=faielli&color=00ff99&style=flat)
 
