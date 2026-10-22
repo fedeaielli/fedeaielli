@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hi,%20I'm%20Fede%20🦝&fontSize=50&fontColor=00ff99&animation=fadeIn)
 
-![Profile Views](https://komarev.com/ghpvc/?username=faielli&color=00ff99&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=fedeaielli&color=00ff99&style=flat)
 
 # 🦝 About Me:
 
 Cybersecurity student @ ITS (Italy) — I spend my time breaking things to understand how to build them better.
 
-> 🔭 Currently working on: **[RRM](https://github.com/faielli/rrm)** — Rust TUI resource monitor for Arch Linux (not published yet)
+> 🔭 Currently working on: **[RRM](https://github.com/fedeaielli/rrm)** — Rust TUI resource monitor for Arch Linux (not published yet)
 
 ### 🛡️ Security
 - Network security, penetration testing, threat modeling (NIS2/SCADA)
@@ -14,11 +14,11 @@ Cybersecurity student @ ITS (Italy) — I spend my time breaking things to under
 - CCNA-level networking: OSI, VLANs, OSPF, STP, EtherChannel, HSRP
 
 ### 🔧 Projects I'm building
-- **[RRM](https://github.com/faielli/rrm)** — Rust TUI resource monitor for Arch Linux
-- **[aurscan](https://github.com/faielli/aurscan)** — Static risk scanner for AUR packages
-- **[niripad](https://github.com/faielli/niripad)** — Keyboard-driven PyQt6 text editor for the Niri Wayland compositor
-- **[AudioBridge](https://github.com/faielli/audiobridge)** — Stream system audio from Windows to Android over Wi-Fi (Opus, mDNS)
-- **[VaultRAG](https://github.com/faielli/Python-RAG-vault)** — Flask + ChromaDB RAG system indexing an Obsidian vault, with MCP server and hybrid vector+graph search
+- **[RRM](https://github.com/fedeaielli/rrm)** — Rust TUI resource monitor for Arch Linux
+- **[aurscan](https://github.com/fedeaielli/aurscan)** — Static risk scanner for AUR packages
+- **[niripad](https://github.com/fedeaielli/niripad)** — Keyboard-driven PyQt6 text editor for the Niri Wayland compositor
+- **[AudioBridge](https://github.com/fedeaielli/audiobridge)** — Stream system audio from Windows to Android over Wi-Fi (Opus, mDNS)
+- **[VaultRAG](https://github.com/fedeaielli/Python-RAG-vault)** — Flask + ChromaDB RAG system indexing an Obsidian vault, with MCP server and hybrid vector+graph search
 - **Malware Detection NN** *(in progress)* — Neural network for malware recognition
 
 ### 🖥️ Homelab & Self-Hosted
