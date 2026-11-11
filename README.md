@@ -6,7 +6,7 @@
 
 Cybersecurity student @ ITS (Italy) — I spend my time breaking things to understand how to build them better.
 
-> 🔭 Currently working on: **[RRM](https://github.com/fedeaielli/rrm)** — Rust TUI resource monitor for Arch Linux (not published yet)
+> 🔭 Currently working on: **[GitPad](https://github.com/fedeaielli/gitpad)** —  local-first desktop editor for files that live in a Git repository you own.
 
 ### 🛡️ Security
 - Network security, penetration testing, threat modeling (NIS2/SCADA)
@@ -19,7 +19,8 @@ Cybersecurity student @ ITS (Italy) — I spend my time breaking things to under
 - **[niripad](https://github.com/fedeaielli/niripad)** — Keyboard-driven PyQt6 text editor for the Niri Wayland compositor
 - **[AudioBridge](https://github.com/fedeaielli/audiobridge)** — Stream system audio from Windows to Android over Wi-Fi (Opus, mDNS)
 - **[VaultRAG](https://github.com/fedeaielli/Python-RAG-vault)** — Flask + ChromaDB RAG system indexing an Obsidian vault, with MCP server and hybrid vector+graph search
-- **Malware Detection NN** *(in progress)* — Neural network for malware recognition
+- **[GitPad](https://github.com/fedeaielli/gitpad)**
+- **[ufw sentinel dashboard for homelab](https://github.com/fedeaielli/ufw-sentinel-dashboard-for-homelab)**
 
 ### 🖥️ Homelab & Self-Hosted
 - Docker-based server stack with multiple containerized services
