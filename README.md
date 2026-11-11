@@ -19,7 +19,7 @@ Cybersecurity student @ ITS (Italy) — I spend my time breaking things to under
 - **[niripad](https://github.com/fedeaielli/niripad)** — Keyboard-driven PyQt6 text editor for the Niri Wayland compositor
 - **[AudioBridge](https://github.com/fedeaielli/audiobridge)** — Stream system audio from Windows to Android over Wi-Fi (Opus, mDNS)
 - **[VaultRAG](https://github.com/fedeaielli/Python-RAG-vault)** — Flask + ChromaDB RAG system indexing an Obsidian vault, with MCP server and hybrid vector+graph search
-- **[GitPad](https://github.com/fedeaielli/gitpad)**
+- **[GitPad](https://github.com/fedeaielli/gitpad)** -  local-first desktop editor for files that live in a Git repository you own.
 - **[ufw sentinel dashboard for homelab](https://github.com/fedeaielli/ufw-sentinel-dashboard-for-homelab)**
 
 ### 🖥️ Homelab & Self-Hosted
