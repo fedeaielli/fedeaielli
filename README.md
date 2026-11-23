@@ -20,7 +20,7 @@ Cybersecurity student @ ITS (Italy) — I spend my time breaking things to under
 - **[AudioBridge](https://github.com/fedeaielli/audiobridge)** — Stream system audio from Windows to Android over Wi-Fi (Opus, mDNS)
 - **[VaultRAG](https://github.com/fedeaielli/Python-RAG-vault)** — Flask + ChromaDB RAG system indexing an Obsidian vault, with MCP server and hybrid vector+graph search
 - **[GitPad](https://github.com/fedeaielli/gitpad)** -  local-first desktop editor for files that live in a Git repository you own.
-- **[ufw sentinel dashboard for homelab](https://github.com/fedeaielli/ufw-sentinel-dashboard-for-homelab)**
+- **[ufw-web-dashboard](https://github.com/fedeaielli/ufw-web-dashboard)**
 
 ### 🖥️ Homelab & Self-Hosted
 - Docker-based server stack with multiple containerized services
